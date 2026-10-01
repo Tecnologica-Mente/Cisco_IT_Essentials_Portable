@@ -120,7 +120,7 @@ Flash\flashplayer_32_sa.exe
  **Autore:** Tecnologica-Mente
 
  **Repository:**\
- https://github.com/Tecnologica-Mente/Cisco\_IT\_Essentials\_Portable
+ https://github.com/Tecnologica-Mente/Cisco_IT_Essentials_Portable
 
 ---
 
@@ -262,7 +262,7 @@ Flash\flashplayer_32_sa.exe
  **Author:** Tecnologica-Mente
 
  **Repository:**\
- https://github.com/Tecnologica-Mente/Cisco\_IT\_Essentials\_Portable
+ https://github.com/Tecnologica-Mente/Cisco_IT_Essentials_Portable
 
 ---
 
